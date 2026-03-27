@@ -8,7 +8,7 @@
 ## 📌 Project Overview
 - **배경**: 무료 체험 이후 결제로 이어지지 않는 클래스 불균형(1:1.6) 문제 해결 필요
 - **목적**: 유료 전환을 결정짓는 핵심 행동 신호 발굴 및 잠재 고객 발굴 모델 구축
-- **나의 역할**: **프로젝트 팀장(Leader)**, 데이터 품질 관리 및 전처리, K-means를 활용한 고객 세그먼테이션 수행
+- **나의 역할**: **프로젝트 팀장(Leader)**, 데이터 품질 관리 및 전처리, Machine Learning을 통한 전환 예측,K-means를 활용한 고객 세그먼테이션 수행
 
 ## 🛠️ Tech Stack
 - **Machine Learning:** Random Forest (전환 예측), K-means Clustering (고객 분류)
